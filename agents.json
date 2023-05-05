@@ -1,0 +1,18 @@
+[
+    {
+        "name":"A1",
+        "waypoints_path":".\\Src\\Src\\medicine-data\\iBeacon_data\\summer_2_floor\\16_06_test_path_1.txt"
+    },
+    {
+        "name":"A2",
+        "waypoints_path":".\\Src\\Src\\medicine-data\\iBeacon_data\\summer_2_floor\\16_06_test_path_2.txt"
+    },
+    {
+        "name":"A3",
+        "waypoints_path":".\\Src\\Src\\medicine-data\\iBeacon_data\\summer_2_floor\\16_06_test_path_3.txt"
+    },
+    {
+        "name":"A3",
+        "waypoints_path":".\\Src\\Src\\medicine-data\\iBeacon_data\\summer_2_floor\\16_06_test_path_3.txt"
+    }
+]
